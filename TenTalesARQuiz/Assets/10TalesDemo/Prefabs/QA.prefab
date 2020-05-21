@@ -18,7 +18,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &390365505
 Transform:
   m_ObjectHideFlags: 0
@@ -301,7 +301,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "RIVER symbolizes  \nESCAPE from the \ncommunity confines"
+  m_text: "The River represents  \nescape from the confines\nof the community"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -370,10 +370,10 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 3.6380439}
   m_textInfo:
     textComponent: {fileID: 777087511}
-    characterCount: 54
+    characterCount: 64
     spriteCount: 0
-    spaceCount: 9
-    wordCount: 7
+    spaceCount: 11
+    wordCount: 10
     linkCount: 0
     lineCount: 3
     pageCount: 1
@@ -411,7 +411,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1068057238
 Transform:
   m_ObjectHideFlags: 0
@@ -523,7 +523,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.12, y: -2.57}
+  m_AnchoredPosition: {x: 0.12, y: -2.63}
   m_SizeDelta: {x: 6, y: 5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!23 &1100117732
@@ -600,7 +600,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "The APPLE symbolizes  \nLIFE and it's linked to\nreal emotion"
+  m_text: "The Apple symbolizes  \nlife and is linked to\nreal emotion"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -669,7 +669,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 3.6380439}
   m_textInfo:
     textComponent: {fileID: 1100117729}
-    characterCount: 59
+    characterCount: 57
     spriteCount: 0
     spaceCount: 11
     wordCount: 10
@@ -728,7 +728,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.17, y: -1.87}
+  m_AnchoredPosition: {x: 0.02, y: -1.73}
   m_SizeDelta: {x: 6, y: 5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!23 &1442220725
@@ -805,7 +805,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "LIGHT PALE EYE \nsymbolizes the \nOTHERNESS in \nthe community"
+  m_text: "Light pale eyes \nsymbolize otherness\nin the community"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -874,12 +874,12 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 3.2418237}
   m_textInfo:
     textComponent: {fileID: 1442220722}
-    characterCount: 59
+    characterCount: 53
     spriteCount: 0
-    spaceCount: 11
-    wordCount: 9
+    spaceCount: 8
+    wordCount: 8
     linkCount: 0
-    lineCount: 4
+    lineCount: 3
     pageCount: 1
     materialCount: 1
   m_isUsingLegacyAnimationComponent: 0
@@ -933,7 +933,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -1.6}
+  m_AnchoredPosition: {x: 0, y: -1.67}
   m_SizeDelta: {x: 5.98, y: 5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!23 &1657575971
@@ -1010,7 +1010,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "SLED symbolizes the \nJOURNEY Jonas takes"
+  m_text: "The SLED symbolizes the \njourney Jonas takes"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1079,10 +1079,10 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 3.5573444}
   m_textInfo:
     textComponent: {fileID: 1657575968}
-    characterCount: 40
+    characterCount: 44
     spriteCount: 0
-    spaceCount: 6
-    wordCount: 6
+    spaceCount: 7
+    wordCount: 7
     linkCount: 0
     lineCount: 2
     pageCount: 1
@@ -1205,7 +1205,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2005698551}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: ae0ed2b6cb4eb44478bc0bb3de5c6ade, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: b166ac7a8eb6a486c8efedc324db4cff, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -1218,12 +1218,14 @@ VideoPlayer:
   m_DataSource: 0
   m_PlaybackSpeed: 1
   m_AudioOutputMode: 0
-  m_TargetAudioSources: []
-  m_DirectAudioVolumes: []
+  m_TargetAudioSources:
+  - {fileID: 0}
+  m_DirectAudioVolumes:
+  - 1
   m_Url: 
-  m_EnabledAudioTracks: 
-  m_DirectAudioMutes: 
-  m_ControlledAudioTrackCount: 0
+  m_EnabledAudioTracks: 01
+  m_DirectAudioMutes: 00
+  m_ControlledAudioTrackCount: 1
   m_PlayOnAwake: 1
   m_SkipOnDrop: 0
   m_Looping: 1
@@ -1473,7 +1475,7 @@ Halo:
   m_Color:
     serializedVersion: 2
     rgba: 1726790975
-  m_Size: 0.13
+  m_Size: 0.22
 --- !u!114 &2506236335750364780
 MonoBehaviour:
   m_ObjectHideFlags: 0

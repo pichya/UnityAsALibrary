@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "475171359475-deqha5j59qtngus5tkvgc0uuq2ulmb9s.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-XsSFfAT0gp-VCcGXu6K1W3DcGXFWnBw"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:475171359475:ios:2a82485415239476f38586", 
+        "android_client_info": {
+          "package_name": "com.pichya.tentales.quiz"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "tentalesarquiz.appspot.com", 
+    "project_id": "tentalesarquiz", 
+    "firebase_url": "https://tentalesarquiz.firebaseio.com", 
+    "project_number": "475171359475"
+  }
+}
